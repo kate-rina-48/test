@@ -8,4 +8,4 @@
 
 ***ячсмитьбюъ***
 
-[ВШЭ] (https://www.hse.ru)
+[ВШЭ](https://www.hse.ru)
